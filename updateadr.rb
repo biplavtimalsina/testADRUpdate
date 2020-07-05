@@ -6,7 +6,7 @@ class Updateadr < Formula
   license ""
 
   def install
-      bin.install "updateadr"
+    bin.install "updateadr"
   end
 
 end
